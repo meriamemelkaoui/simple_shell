@@ -73,7 +73,7 @@ char *_itoa(int num)
 
 
 /**
- * create_error - Writes a custom error message to stderr that conforms to shell standards.
+ * create_error - Writes a custom error message to stderr that conforms
  * @args: An array of arguments passed to the function.
  * @err: The error value.
  *
